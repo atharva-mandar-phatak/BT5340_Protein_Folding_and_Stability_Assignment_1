@@ -8,7 +8,6 @@ This repository contains the materials and code for **Assignment 1** of the cour
 The repository includes:
 
 - **Code**: Scripts for analyzing phi-psi angle distributions and their impact on folding.
-- **Data**: Example datasets to test and validate the analysis.
 - **Assignment**: Answers to the questions
 
 
